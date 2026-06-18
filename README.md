@@ -3,7 +3,9 @@
 
 ![Avatar](/image.png)
 
-Otomachi Una (音街ウナ) is a Japanese vocal developed by AH-Software Co. Ltd. and distributed by Internet Co., Ltd. in collaboration with MTK Inc. and released as an AI voice database for Synthesizer V Studio in November 2024. She received an update for Synthesizer V Studio 2[1] in September 2025.
+Otomachi Una (音街ウナ) is a Japanese vocal developed by AH-Software Co. Ltd. and distributed by Internet Co., Ltd. in collaboration with MTK Inc. and released as an AI voice database for Synthesizer V Studio in November 2024. She received an update for Synthesizer V Studio 2[1] in September 2025. She is voiced by the Japanese voice actress, Aimi Tanaka (田中あいみ; Tanaka Aimi).
+
+
 
 ## General information
 - Gender: Female
