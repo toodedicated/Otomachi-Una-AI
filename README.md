@@ -1,5 +1,5 @@
 # Otomachi Una AI
-[English](README.md) |
+[English](README.md)
 
 ![Avatar](/image.png)
 
