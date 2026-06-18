@@ -1,5 +1,5 @@
 # Your singer name
-[English](README.md) | [Русский](README.ru.md)
+[English](README.md) |
 
 ![Avatar](/image.png)
 
