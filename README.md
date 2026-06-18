@@ -1,4 +1,4 @@
-# Otomachi Una AI
+# Otomachi Una AI (SVS1)
 [English](README.md)
 
 ![Avatar](/image.png)
